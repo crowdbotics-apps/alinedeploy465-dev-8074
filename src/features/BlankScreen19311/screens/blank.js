@@ -164,7 +164,7 @@ export class _Blank extends React.Component {
               textTransform: "none"
             }}
           >
-            Sample text content
+            Sample text to check values of shadow and etc.{" "}
           </Text>
         </View>
         <View
